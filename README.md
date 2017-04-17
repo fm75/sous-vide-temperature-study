@@ -9,7 +9,7 @@ has been eliminated, either via vacuum sealing or using the water displacement m
 The experimental data comes from experiments performed by Rick Garcia. In the experiments, 
 some food was cooked sous vide in a water bath. Temperatures of the food and the water
 bath were recorded using a Tappeque four probe wifi thermometer. The raw data included
-many columns of data that was not needed, including the experimenter's email addres
+many columns of data that were not needed, including the experimenter's email address
 Each row in the source CSV file included the results from a single probe. 
 
 For privacy purposes, the raw data has not been included in this repo.
