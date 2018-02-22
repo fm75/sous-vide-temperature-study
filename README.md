@@ -1,6 +1,8 @@
 # sous-vide-temperature-study
 Analysis of Temperatures of Meat Being Cooked Sous Vide
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fm75/sous-vide-temperature-study/master)
+
 # Sous Vide Cooking
 In sous vide cooking, meat is cooked in a container in which most or all of the air
 has been eliminated, either via vacuum sealing or using the water displacement method.
