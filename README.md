@@ -1,6 +1,8 @@
 # sous-vide-temperature-study
 Analysis of Temperatures of Meat Being Cooked Sous Vide
 
+Click below to run the studies using JupyterLab in [binder](https://blog.jupyter.org/binder-2-0-a-tech-guide-2017-fd40515a3a84)
+
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fm75/sous-vide-temperature-study/master?urlpath=lab)
 
 # Sous Vide Cooking
